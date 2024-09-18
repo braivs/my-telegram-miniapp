@@ -1,6 +1,6 @@
 # Telegram Mini App
 
-This is my first **Telegram Mini App** developed using React, based on the guide by [Aman Vaths](https://www.linkedin.com/pulse/telegram-mini-apps-development-using-react-guide-aman-vaths-int7c/).
+This is my first **Telegram Mini App** developed using React, based on the guide by [Aman Vaths](https://www.linkedin.com/in/amanvaths/).
 
 ## 📲 App Link
 
