@@ -1,7 +1,8 @@
 import React, {useEffect} from 'react'
-import './App.css'
+import './App.module.css'
 import {Header} from "./components/Header"
 import {Counter} from "./components/Counter"
+import s from './App.module.css'
 
 function App() {
   useEffect(() => {
@@ -13,10 +14,10 @@ function App() {
   }, []);
 
   return (
-    <>
+    <div className={s.app}>
       <Header />
       <Counter />
-    </>
+    </div>
   );
 }
 
