@@ -4,7 +4,8 @@ This is my first **Telegram Mini App** developed using React, based on the guide
 
 ## 📲 App Link
 
-You can check out the app [here](https://t.me/braivs_blank_bot/braivs_blank) on Telegram.
+You can check out the app here: [braivs_blank](https://t.me/braivs_blank_bot/braivs_blank) on Telegram.
+Local version, for dev [first_telegram_app_local](https://t.me/braivs_bot/first_telegram_app_local)  
 
 ## 📖 Development Guide
 
